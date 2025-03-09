@@ -26,6 +26,10 @@ section {
     margin-bottom: 0.625rem;
 }
 
+.conteudo h1 {
+    text-align: center;
+}
+
 .alerta {
     background: #f44336;
     padding: 5px;
